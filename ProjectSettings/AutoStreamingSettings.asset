@@ -1,0 +1,3199 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1200 &1
+AutoStreamingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  mSearchMode: 7
+  mCustomSearchFile: 
+  mTextureSearchString: 
+  mMeshSearchString: 
+  mTextures:
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/UI/Unity.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 117648
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/UI/Logo.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 230400
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 720
+    height: 720
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/UI/UISpritesheet.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 6381568
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    - 2
+    - characters/cat
+    - characters/racoon
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 779
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/UI/Base-01.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 58752
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 432
+    height: 304
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/SlatsAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/WheelyBinAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/TreeBranchAlbedo.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/GrassGradientAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 10528
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 64
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/DumpsterAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/BinAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/BrickWallAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/PlasterAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/CorrugatedMetalAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/PipeAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/RatAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/CatAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - characters/cat
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Car01Albedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/BinBagsAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/BinNightAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/BlobShadow.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Car02Albedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/ConstructionWorkerAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/DogAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/DogNightAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/HeartParticle.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 832
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    maxPlaceholderSize: 196640
+    width: 32
+    height: 32
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/FishboneAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Particle01.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/HeartAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Grad.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 11424
+    warningFlag: 0
+    refs:
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 32
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/LightGlowSquareAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/LightPoolAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/MagnetAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/MagnetSparks.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 10512
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/UI/UIBorderTransparent.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 2768
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 64
+    height: 64
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Star.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/SmokePuff.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 81088
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 128
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/MultiplierParticle.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 832
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    maxPlaceholderSize: 196640
+    width: 32
+    height: 32
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/StarAlbedo.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti03.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti11.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti05.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti04.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti06.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti09.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti01.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti07.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti02.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti13.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti08.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 1332856
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 500
+    height: 500
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti10.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Graffiti/Graffiti12.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/PartyHatBowtieAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/RacoonAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - characters/racoon
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/SardinesGoldAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/RubbishAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/WashingLineClothesAlbedo.png
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/SkipAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/WarningLightAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 10512
+    warningFlag: 0
+    refs:
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/RatNightAlbedo.tif
+    assetName: 
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - themes/nightime
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 0
+  mAudios:
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/Music/MenuTheme.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 893309
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/ButtonPresses.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 5880
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/Stems/STEMSMainTrackMono.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 3191764
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/Stems/STEMSSpeed1HatsMono.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 1892990
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/Stems/STEMSSpeed1BongosMono.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 802872
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/Stems/STEMSSpeed2ChoirMono.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 1943874
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/Stems/STEMSSpeed3StringsMono.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 2224060
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/Stems/STEMSSpeed4SynthMono.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 2661794
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/Music/DeathLoop.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 322508
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/FishboneCollection.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 4418
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/PremiumCurrency.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 21329
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/4321.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 47099
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Slide.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 11174
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/PowerUp.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 27791
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Magnet.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 19765
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Invincible.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 23814
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/MenuClaimMission.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 20128
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Raccoon/RaccoonJump.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 9689
+    warningFlag: 0
+    refs:
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Raccoon/RaccoonHurt.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 8876
+    warningFlag: 0
+    refs:
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Raccoon/RaccoonDead.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 9207
+    warningFlag: 0
+    refs:
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/TrashCan.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 19850
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/WoodenBarrier.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 12517
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/WheelieBin.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 19912
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Rat/RatLoop2.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 19065
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Rat/RatHit.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 9839
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Rat/RatLoop1.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 13760
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/TrafficCone.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 8063
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Dog/DogGrowlLoop2.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 31962
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Dog/DogHit.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 8314
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Dog/DogGrowlLoop1.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 34352
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Cat/CatJump.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 9024
+    warningFlag: 0
+    refs:
+    - characters/cat
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Cat/CatInjured.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 9106
+    warningFlag: 0
+    refs:
+    - characters/cat
+  - onDemandDownload: 0
+    assetPath: Assets/Sounds/SFX/Cat/CatDeath.ogg
+    assetName: 
+    localFileId: 8300000
+    rtMem: 12857
+    warningFlag: 0
+    refs:
+    - characters/cat
+  mMeshes:
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/TelegraphPole02.fbx:TelegraphPole02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 21944
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Sky.fbx:Sky
+    assetName: 
+    localFileId: 4300002
+    rtMem: 4680
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Road04.fbx:Road04
+    assetName: 
+    localFileId: 4300002
+    rtMem: 66300
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/FarBackBuilding02.fbx:FarBackBuilding02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 44408
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Road01.fbx:Road01
+    assetName: 
+    localFileId: 4300002
+    rtMem: 24700
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:Car3:Car1Body
+    assetName: 
+    localFileId: 4300000
+    rtMem: 62580
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:Car3:Car1FrontWheels
+    assetName: 
+    localFileId: 4300002
+    rtMem: 5408
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:Car3:Car1RearWheels
+    assetName: 
+    localFileId: 4300004
+    rtMem: 5408
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:Car3:Car2FrontWheels
+    assetName: 
+    localFileId: 4300006
+    rtMem: 5616
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:Car3:Car2RearWheels
+    assetName: 
+    localFileId: 4300008
+    rtMem: 5616
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:Car3:Car2Body
+    assetName: 
+    localFileId: 4300010
+    rtMem: 75600
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:DogRun_Final:DogMesh
+    assetName: 
+    localFileId: 4300012
+    rtMem: 100736
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:Rat_OnPlaceRun_Final1:RatMesh
+    assetName: 
+    localFileId: 4300054
+    rtMem: 66880
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:CatMesh
+    assetName: 
+    localFileId: 4300064
+    rtMem: 127520
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Road03.fbx:Road03
+    assetName: 
+    localFileId: 4300002
+    rtMem: 45968
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/TelegraphPole01.fbx:TelegraphPole01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 32968
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/StreetLight.fbx:StreetLight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 12480
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Warehouse02.fbx:Warehouse02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 151684
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Garage01.fbx:Garage01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 35568
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/House02.fbx:House02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 125320
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Garage03.fbx:Garage03
+    assetName: 
+    localFileId: 4300000
+    rtMem: 22152
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:BinBottom
+    assetName: 
+    localFileId: 4300000
+    rtMem: 8880
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:BinLid
+    assetName: 
+    localFileId: 4300002
+    rtMem: 4896
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump
+    assetName: 
+    localFileId: 4300004
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump6
+    assetName: 
+    localFileId: 4300006
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump7
+    assetName: 
+    localFileId: 4300008
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump1
+    assetName: 
+    localFileId: 4300010
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump2
+    assetName: 
+    localFileId: 4300012
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump3
+    assetName: 
+    localFileId: 4300014
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump9
+    assetName: 
+    localFileId: 4300016
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump8
+    assetName: 
+    localFileId: 4300018
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump5
+    assetName: 
+    localFileId: 4300020
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassClump4
+    assetName: 
+    localFileId: 4300022
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:DumppsterLid
+    assetName: 
+    localFileId: 4300024
+    rtMem: 5616
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:DumpsterBottom
+    assetName: 
+    localFileId: 4300026
+    rtMem: 15392
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:WheelyBinBottom
+    assetName: 
+    localFileId: 4300028
+    rtMem: 19448
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:WheelyBinTop
+    assetName: 
+    localFileId: 4300030
+    rtMem: 8424
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:Tree
+    assetName: 
+    localFileId: 4300032
+    rtMem: 14404
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves
+    assetName: 
+    localFileId: 4300034
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves1
+    assetName: 
+    localFileId: 4300036
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves2
+    assetName: 
+    localFileId: 4300038
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves3
+    assetName: 
+    localFileId: 4300040
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves4
+    assetName: 
+    localFileId: 4300042
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves5
+    assetName: 
+    localFileId: 4300044
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves6
+    assetName: 
+    localFileId: 4300046
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves7
+    assetName: 
+    localFileId: 4300048
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves8
+    assetName: 
+    localFileId: 4300050
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves9
+    assetName: 
+    localFileId: 4300052
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves10
+    assetName: 
+    localFileId: 4300054
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves11
+    assetName: 
+    localFileId: 4300056
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves12
+    assetName: 
+    localFileId: 4300058
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves13
+    assetName: 
+    localFileId: 4300060
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves14
+    assetName: 
+    localFileId: 4300062
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves15
+    assetName: 
+    localFileId: 4300064
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves16
+    assetName: 
+    localFileId: 4300066
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:TreeLeaves17
+    assetName: 
+    localFileId: 4300068
+    rtMem: 1040
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:GrassPlane
+    assetName: 
+    localFileId: 4300070
+    rtMem: 4032
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Warehouse01.fbx:Warehouse01
+    assetName: 
+    localFileId: 4300002
+    rtMem: 127920
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Apartments03.fbx:Apartments03
+    assetName: 
+    localFileId: 4300000
+    rtMem: 214448
+    warningFlag: 0
+    refs:
+    - 0
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/BackgroundCircle.FBX:BackgroundCircle
+    assetName: 
+    localFileId: 4300000
+    rtMem: 14092
+    warningFlag: 0
+    refs:
+    - 1
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Magnet.fbx:Magnet
+    assetName: 
+    localFileId: 4300000
+    rtMem: 14560
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Multiply.fbx:Multiplyer
+    assetName: 
+    localFileId: 4300002
+    rtMem: 22100
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Star.fbx:Star
+    assetName: 
+    localFileId: 4300004
+    rtMem: 10560
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Heart.fbx:Heart
+    assetName: 
+    localFileId: 4300000
+    rtMem: 8632
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleBin.fbx:BinTop
+    assetName: 
+    localFileId: 4300000
+    rtMem: 5304
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleBin.fbx:BinBase
+    assetName: 
+    localFileId: 4300002
+    rtMem: 9412
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleWheelyBin.fbx:WheelyBinBody
+    assetName: 
+    localFileId: 4300000
+    rtMem: 15184
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleWheelyBin.fbx:WheelyBinTop
+    assetName: 
+    localFileId: 4300002
+    rtMem: 10504
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleWheelyBin.fbx:TrashBag
+    assetName: 
+    localFileId: 4300004
+    rtMem: 19760
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Racoon.fbx:RacoonMesh
+    assetName: 
+    localFileId: 4300002
+    rtMem: 127520
+    warningFlag: 0
+    refs:
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Racoon.fbx:ConstructionGearMesh
+    assetName: 
+    localFileId: 4300004
+    rtMem: 82720
+    warningFlag: 0
+    refs:
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Racoon.fbx:PartHatandBowtie
+    assetName: 
+    localFileId: 4300006
+    rtMem: 14880
+    warningFlag: 0
+    refs:
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/SkyNight.fbx:SkyNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 4680
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/BackgroundCircleNight.FBX:BackgroundCircleNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 14092
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Warehouse01Night.fbx:Warehouse01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 128336
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Road02Night.fbx:Road02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 26624
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/LightGlowPlane.fbx:Plane045
+    assetName: 
+    localFileId: 4300000
+    rtMem: 208
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/BrickWall01Night.fbx:BrickWall01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 16016
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/FarBackBuilding02Night.fbx:FarBackBuilding02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 44408
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Road01Night.fbx:Road01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 24700
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/PipesNight.fbx:PipesNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 47840
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/TelegraphWiresNight.fbx:TelegraphWiresNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 8736
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/FarBackBuilding03Night.fbx:FarBackBuilding03Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 64428
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Warehouse02Night.fbx:Warehouse02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 152152
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/BackgroundBuilding02Night.fbx:BackgroundBuilding02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 49244
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/TelegraphPole02Night.fbx:TelegraphPole02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 21944
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/TelegraphPole01Night.fbx:TelegraphPole01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 32968
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/BinBagOpenNight.fbx:BinBagOpenNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 5148
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/WheelyBinRedNight.fbx:WheelyBinRedNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 25688
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/PlasteredWall02Night.fbx:PlasteredWall02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 17524
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/BinBagClosedNight.fbx:BinBagClosedNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 7124
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/DumpsterGreenNight.fbx:DumpsterGreenNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 21008
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/WireNight.fbx:WireNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 2912
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/BackgroundBuilding01Night.fbx:BackgroundBuilding01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 49244
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Warehouse03Night.fbx:Warehouse03Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 125996
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/WheelyBinBlueNight.fbx:WheelyBinBlueNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 25688
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/WheelyBinRed.fbx:WheelyBinRed
+    assetName: 
+    localFileId: 4300000
+    rtMem: 25688
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/WheelyBinBlue.fbx:WheelyBinBlue
+    assetName: 
+    localFileId: 4300000
+    rtMem: 25688
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/DumpsterRedNight.fbx:DumpsterRedNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 21008
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/GrassClumpNight.fbx:GrassClumpNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 4680
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/FarBackBuilding01Night.fbx:FarBackBuilding01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 44460
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/DumpsterBlueNight.fbx:DumpsterBlueNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 21008
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Bin01Night.fbx:Bin01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 14716
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/RoadWorkConeNight.fbx:RoadWorkConeNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 9568
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/WoodFence02Night.fbx:WoodFence02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 22672
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Garage01Night.fbx:Garage01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 35568
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/WoodFence01Night.fbx:WoodFence01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 22932
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/PlasteredWall01Night.fbx:PlasteredWall01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 14664
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/SkipYellowNight.fbx:SkipYellowNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 52572
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/LightCone.fbx:LightCone
+    assetName: 
+    localFileId: 4300000
+    rtMem: 1976
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/StreetLightNight.fbx:StreetLightNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 12480
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/House01Night.fbx:House01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 125320
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Tree01Night.fbx:Tree01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 40612
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/LightPool.fbx:LightPool
+    assetName: 
+    localFileId: 4300000
+    rtMem: 3120
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/House.fbx:House
+    assetName: 
+    localFileId: 4300000
+    rtMem: 125320
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/House02Night.fbx:House02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 125320
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Garage05Night.fbx:Garage05Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 37388
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Garage06Night.fbx:Garage06Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 33956
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Garage03Night.fbx:Garage03Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 22152
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/House03Night.fbx:House03Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 125320
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/SkipBlueNight.fbx:SkipBlueNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 52572
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Apartments04Night.fbx:Apartments04Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 159640
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Apartments02Night.fbx:Apartments02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 272532
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Road04Night.fbx:Road04Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 66300
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Car01Night.fbx:Car1Night
+    assetName: 
+    localFileId: 4300006
+    rtMem: 75060
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Car02Night.fbx:Car2Night
+    assetName: 
+    localFileId: 4300006
+    rtMem: 89040
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/ClothesLine01Night.fbx:ClothesLine01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 9516
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/ClothesLine03Night.fbx:ClothesLine03Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 9412
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Apartments01Night.fbx:Apartments01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 159640
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/FireEscapeNight.fbx:FireEscapeNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 92248
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Apartments03Night.fbx:Apartments03Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 214448
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Road03Night.fbx:Road03Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 45968
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/LightPool02.fbx:LightPool02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 2184
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Fishbone.fbx:Fishbone2
+    assetName: 
+    localFileId: 4300000
+    rtMem: 10848
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Sardines.fbx:Sardines
+    assetName: 
+    localFileId: 4300000
+    rtMem: 34060
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Cloud01Night.fbx:Cloud01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 17576
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Cloud02Night.fbx:Cloud02Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 17576
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/Cloud03Night.fbx:Cloud03Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 17576
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/RoadWorksBarrierHighNight.fbx:RoadWorksBarrierHighNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 30056
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/ObstacleWheelyBinNight.fbx:WheelyBinBodyNight
+    assetName: 
+    localFileId: 4300006
+    rtMem: 15184
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/ObstacleWheelyBinNight.fbx:WheelyBinTopNight
+    assetName: 
+    localFileId: 4300008
+    rtMem: 10504
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/ObstacleWheelyBinNight.fbx:TrashBagNight
+    assetName: 
+    localFileId: 4300010
+    rtMem: 19760
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Rat.fbx:RatMesh
+    assetName: 
+    localFileId: 4300000
+    rtMem: 66880
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/RoadWorksBarrier01Night.fbx:RoadWorksBarrier01Night
+    assetName: 
+    localFileId: 4300000
+    rtMem: 22464
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Dog.FBX:DogMesh
+    assetName: 
+    localFileId: 4300000
+    rtMem: 100736
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/NightTime/RoadWorksBarrierLowNight.fbx:RoadWorksBarrierLowNight
+    assetName: 
+    localFileId: 4300000
+    rtMem: 24544
+    warningFlag: 0
+    refs:
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Road02.fbx:Road02
+    assetName: 
+    localFileId: 4300002
+    rtMem: 26624
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/BrickWall.fbx:BrickWall01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 16016
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Pipes.fbx:Pipes
+    assetName: 
+    localFileId: 4300000
+    rtMem: 47840
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/TelegraphWires.fbx:TelegraphWires
+    assetName: 
+    localFileId: 4300002
+    rtMem: 8736
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/FarBackBuilding03.fbx:FarBackBuilding03
+    assetName: 
+    localFileId: 4300000
+    rtMem: 64428
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/BackgroundBuilding02.fbx:BackgroundBuilding02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 49244
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/BinBagOpen.fbx:BinBagOpen
+    assetName: 
+    localFileId: 4300000
+    rtMem: 4752
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/PlasteredWall02.fbx:PlasteredWall02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 17524
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/BinBagClosed.fbx:BinBagClosed
+    assetName: 
+    localFileId: 4300000
+    rtMem: 6576
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/DumpsterGreen.fbx:DumpsterGreen
+    assetName: 
+    localFileId: 4300000
+    rtMem: 21008
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Wire.fbx:Wire
+    assetName: 
+    localFileId: 4300002
+    rtMem: 2912
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/BackgroundBuilding01.fbx:BackgroundBuilding01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 49244
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Warehouse03.fbx:Warehouse03
+    assetName: 
+    localFileId: 4300000
+    rtMem: 125164
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/GrassClump01.fbx:GrassClump
+    assetName: 
+    localFileId: 4300002
+    rtMem: 4680
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/FarBackBuilding01.fbx:FarBackBuilding01
+    assetName: 
+    localFileId: 4300002
+    rtMem: 44460
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/DumpsterRed.fbx:DumpsterRed
+    assetName: 
+    localFileId: 4300000
+    rtMem: 21008
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/DumpsterBlue.fbx:DumpsterBlue
+    assetName: 
+    localFileId: 4300000
+    rtMem: 21008
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Bin01.fbx:Bin01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 14716
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/RoadWorksCone.fbx:RoadWorkCone
+    assetName: 
+    localFileId: 4300000
+    rtMem: 9568
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/WoodFence02.fbx:WoodFence02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 22672
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/WoodFence01.fbx:WoodFence01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 22776
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/PlasteredWall01.fbx:PlasteredWall01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 14664
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/SkipYellow.fbx:SkipYellow
+    assetName: 
+    localFileId: 4300000
+    rtMem: 52572
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Tree01.fbx:Tree01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 33124
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Garage06.fbx:Garage06
+    assetName: 
+    localFileId: 4300000
+    rtMem: 33956
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/House03.fbx:House03
+    assetName: 
+    localFileId: 4300000
+    rtMem: 125320
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Garage05.fbx:Garage05
+    assetName: 
+    localFileId: 4300000
+    rtMem: 37388
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/SkipBlue.fbx:SkipBlue
+    assetName: 
+    localFileId: 4300000
+    rtMem: 52572
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Apartments04.fbx:Apartments04
+    assetName: 
+    localFileId: 4300000
+    rtMem: 159640
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Apartments02.fbx:Apartments02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 272532
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Car01.fbx:Car2FrontWheels
+    assetName: 
+    localFileId: 4300000
+    rtMem: 5616
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Car01.fbx:Car2RearWheels
+    assetName: 
+    localFileId: 4300002
+    rtMem: 5616
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Car01.fbx:Car2Body
+    assetName: 
+    localFileId: 4300004
+    rtMem: 76080
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Car02.fbx:Car1Body
+    assetName: 
+    localFileId: 4300000
+    rtMem: 62580
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Car02.fbx:Car1FrontWheels
+    assetName: 
+    localFileId: 4300002
+    rtMem: 5408
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Car02.fbx:Car1RearWheels
+    assetName: 
+    localFileId: 4300004
+    rtMem: 5408
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/ClothesLine01.fbx:ClothesLine01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 9516
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/ClothesLine03.fbx:ClothesLine03
+    assetName: 
+    localFileId: 4300000
+    rtMem: 9412
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Apartments01.fbx:Apartments01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 159640
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/FireEscape.fbx:FireEscape
+    assetName: 
+    localFileId: 4300002
+    rtMem: 92248
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Cloud01.fbx:Cloud01
+    assetName: 
+    localFileId: 4300004
+    rtMem: 86580
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Cloud02.fbx:Cloud02
+    assetName: 
+    localFileId: 4300000
+    rtMem: 17576
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/Cloud03.fbx:Cloud03
+    assetName: 
+    localFileId: 4300000
+    rtMem: 17576
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/RoadWorksBarrierHigh.fbx:RoadWorksBarrierHigh
+    assetName: 
+    localFileId: 4300000
+    rtMem: 30056
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/RoadWorksBarrier01.fbx:RoadWorksBarrier01
+    assetName: 
+    localFileId: 4300000
+    rtMem: 22464
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Daytime/RoadWorksBarrierLow.fbx:RoadWorksBarrierLow
+    assetName: 
+    localFileId: 4300000
+    rtMem: 24544
+    warningFlag: 0
+    refs:
+    - themes/default
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Cat.fbx:HatandTie
+    assetName: 
+    localFileId: 4300002
+    rtMem: 23200
+    warningFlag: 0
+    refs:
+    - characters/cat
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Cat.fbx:CatMesh
+    assetName: 
+    localFileId: 4300004
+    rtMem: 127520
+    warningFlag: 0
+    refs:
+    - characters/cat
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Cat.fbx:ConstructionGearMesh
+    assetName: 
+    localFileId: 4300008
+    rtMem: 65872
+    warningFlag: 0
+    refs:
+    - characters/cat
+  - onDemandDownload: 0
+    assetPath: Assets/Models/Cat.fbx:PartHatandBowtie
+    assetName: 
+    localFileId: 4300010
+    rtMem: 14880
+    warningFlag: 0
+    refs:
+    - characters/cat
+  mAnimations:
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Multiply.anim:Multiply
+    assetName: 
+    localFileId: 7400000
+    rtMem: 3332
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Star.anim:Star
+    assetName: 
+    localFileId: 7400000
+    rtMem: 3780
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Heart.anim:Heart
+    assetName: 
+    localFileId: 7400000
+    rtMem: 3912
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Magnet.anim:Magnet
+    assetName: 
+    localFileId: 7400000
+    rtMem: 9434
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuActors.fbx:Menu_AnimationActors
+    assetName: 
+    localFileId: 7400000
+    rtMem: 2574971
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/MenuEnvironmentProps.fbx:Menu_AnimationEnvironment
+    assetName: 
+    localFileId: 7400000
+    rtMem: 98344
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_HitWall1.fbx:Cat_HitWall1
+    assetName: 
+    localFileId: 7400000
+    rtMem: 65921
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_RunShort.fbx:Cat_RunShort
+    assetName: 
+    localFileId: 7400000
+    rtMem: 18725
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_Jump.fbx:Cat_Jump
+    assetName: 
+    localFileId: 7400000
+    rtMem: 96050
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_RunLong.fbx:Cat_RunLong
+    assetName: 
+    localFileId: 7400000
+    rtMem: 141329
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_Death.fbx:Cat_Death
+    assetName: 
+    localFileId: 7400000
+    rtMem: 66973
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_Start.fbx:Cat_Start
+    assetName: 
+    localFileId: 7400000
+    rtMem: 90525
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_Death2.fbx:Cat_Death2
+    assetName: 
+    localFileId: 7400000
+    rtMem: 80629
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_Slide.fbx:Cat_Slide
+    assetName: 
+    localFileId: 7400000
+    rtMem: 69669
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_Idle4.fbx:Cat_Idle4
+    assetName: 
+    localFileId: 7400000
+    rtMem: 118105
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_Idle2.fbx:Cat_Idle2
+    assetName: 
+    localFileId: 7400000
+    rtMem: 97289
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_IdleHappy.fbx:Cat_IdleHappy
+    assetName: 
+    localFileId: 7400000
+    rtMem: 53985
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_Idle1.fbx:Cat_Idle1
+    assetName: 
+    localFileId: 7400000
+    rtMem: 77365
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Cat_HappyDance.fbx:Cat_HappyDance
+    assetName: 
+    localFileId: 7400000
+    rtMem: 89493
+    warningFlag: 0
+    refs:
+    - characters/cat
+    - characters/racoon
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleBin.fbx:ObstacleBin_Death
+    assetName: 
+    localFileId: 7400000
+    rtMem: 4178
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleRoadWorksBarrierHigh_Death.fbx:ObstacleRoadWorksBarrierHigh_Death
+    assetName: 
+    localFileId: 7400000
+    rtMem: 1320
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleWheelyBin.fbx:ObstacleWheelyBin_Death
+    assetName: 
+    localFileId: 7400000
+    rtMem: 2964
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleRoadWorksBarrier_Death.fbx:ObstacleRoadWorksBarrier_Death
+    assetName: 
+    localFileId: 7400000
+    rtMem: 888
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleWorkCone_Death.fbx:ObstacleWorkCone_Death
+    assetName: 
+    localFileId: 7400000
+    rtMem: 1032
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/ObstacleRoadWorksBarrierLow_Death.fbx:ObstacleRoadWorksBarrierLow_Death
+    assetName: 
+    localFileId: 7400000
+    rtMem: 1032
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Dog_Run.fbx:Dog_Run
+    assetName: 
+    localFileId: 7400000
+    rtMem: 43460
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Dog_Idle.fbx:Dog_Idle
+    assetName: 
+    localFileId: 7400000
+    rtMem: 94048
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Dog_Death.fbx:Dog_Death
+    assetName: 
+    localFileId: 7400000
+    rtMem: 54008
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Rat_Run.fbx:Rat_Run
+    assetName: 
+    localFileId: 7400000
+    rtMem: 166165
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Rat_Death.fbx:Rat_Death
+    assetName: 
+    localFileId: 7400000
+    rtMem: 53057
+    warningFlag: 0
+    refs:
+    - themes/default
+    - themes/nightime
+  mSharedSceneAssets:
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Animation/Animators/Heart.controller
+    assetType: 91
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Animation/Animators/Magnet.controller
+    assetType: 91
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Animation/Animators/Multiply.controller
+    assetType: 91
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Animation/Animators/Star.controller
+    assetType: 91
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Font/LuckiestGuy.ttf
+    assetType: 28
+    rtMem: 2097152
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/BlobShadow.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/DefaultParticleReplacementMaterial.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/ExtraLifeParticle.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/Heart.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/Magnet.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/MagnetSparks.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/MultiplierGlowParticle.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/MultiplierParticle.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/PickupParticle.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/StarInner.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/StarOuter.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/StarParticle.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Materials/VCOL.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Models/Magnet.fbx
+    assetType: 90
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Prefabs/Particles/PowerUpParticle/ExtraLifeParticles.prefab
+    assetType: 199
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Prefabs/Particles/PowerUpParticle/InvincibilityParticles.prefab
+    assetType: 199
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Prefabs/Particles/PowerUpParticle/MagnetParticles.prefab
+    assetType: 199
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Prefabs/Particles/PowerUpParticle/MultiplierParticles.prefab
+    assetType: 199
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Prefabs/Powerup/CoinMagnet.prefab
+    assetType: 23
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Prefabs/Powerup/Consumables.asset
+    assetType: 114
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Prefabs/Powerup/ExtraLife.prefab
+    assetType: 199
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Prefabs/Powerup/Invincibilty.prefab
+    assetType: 95
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Prefabs/Powerup/ScoreMultiplier.prefab
+    assetType: 23
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Shaders/CurvedUnlit.shader
+    assetType: 48
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Shaders/CurvedUnlitAlpha.shader
+    assetType: 48
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Sounds/Mixers/MainMix.mixer
+    assetType: 245
+    rtMem: 0
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Textures/HeartParticle.png
+    assetType: 28
+    rtMem: 832
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Textures/MagnetSparks.png
+    assetType: 28
+    rtMem: 10512
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Textures/MultiplierParticle.png
+    assetType: 28
+    rtMem: 832
+    refs: 0100000002000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/UI/UISpritesheet.png
+    assetType: 213
+    rtMem: 0
+    refs: 0100000002000000
+  mScenes:
+  - onDemandDownload: 0
+    assetPath: Assets/Scenes/Start.unity
+    assetName: 
+    localFileId: -1
+    rtMem: 0
+    warningFlag: 0
+    refs: []
+  - onDemandDownload: 0
+    assetPath: Assets/Scenes/Main.unity
+    assetName: 
+    localFileId: -1
+    rtMem: 0
+    warningFlag: 0
+    refs: []
+  - onDemandDownload: 1
+    assetPath: Assets/Scenes/Shop.unity
+    assetName: 
+    localFileId: -1
+    rtMem: 510049
+    warningFlag: 0
+    refs: []
+  mConfigCCD:
+    useCCD: 0
+    uosSecret: 1dcdf1c5c80b4298a6e738eb682eb8bf
+    uosAppid: 76468a7a-17be-4dc5-b630-b42f1984d2e3
+    bucketUuid: 2bc499ab-2e8a-4afa-81f8-449f0ff0c9dd
+    bucketName: bucket1
+    badgeName: latest
+    ttAppid: 
+    targetPlatfrom: 

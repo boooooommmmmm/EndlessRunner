@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RacoonAlbedo.tif
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: 7301084800000a00e400702a92792cb408a90800f60550bf72080e20000000802ec204030507007f777bbbb3298dc0007f00108ac1d7f65f42bd01fc008841100c011ca8a1f8926d957dae4567030a00145130403103d0f64e7fad72bdc5108031030e980000000046443213c100000073011ec041016417d0d6509d2861920863c96a40b0c80568c1277d2f4b4a00004f300640501e5b9c2dbacb698b67096d0c010c4821a0c49001e6818a49cb49a97f00008c00004092dcb6d9b66ddb93b8510328f2000813184f40b213c83c242253090240c88152244990a44a927d01fc510320e60140ba9680972313764940cc73010cd641491326000204998fe43e915f680280b40420a66fecc627582408c86f0000320000eccdffd91e5b7a0a05407f00005000bd2aa8f890fc27fc1ffe5f6f00204e0000c80529ad25b7e49ebcf2728910c0f08ad05593401339c05f586e63691000c08851e723863c006460740c5309024024c35f040088002002b408ec6f00323a0000a4a4bdfd1fff634a05400c010e3c591a6c19ba1d8a02000000016e307540aa017281a45adf9a41228e3641030a780100f3d2f43e4b082890db77730108c600653b20e500a61cd4eefded7f0000d60021139048ca74bb52cc09f06f00022e00000080d6d45a00682b93d272690260f0d941910d6403d94056e0b61303049000000000802022f64308b1fdf3680aa0c03a76303018180c0c049e87e102045e00409054a0a8402901f2d8d8510302360020c13d48380782b7c9ccd86f0000020000a4a494949252524a4a8172f13f403eac20c84cf5d41f094003d26fc833e061b05dc2f9fd9a0c407641600c01364601b8a580955458a2a4b5410f6369564024528126c2161252d364854a1829208012bb0ace8ea36ba2aa70ffd552b12f003426f10611efc07b54a201005103062c0100a624801525322549220208316780123b1d9001199061fb446b2508a90f006022a980055880a5f2aa15c00c01005e3535e9979cb53467f70d194d08a906c0f51320aaa2ea00f8bfffff7fe3705940deed0f416a4bada931b52c600801087e00000000088000088000a8ea0c0142fe00f0025207f25b3609b7de166f0094e40000002000048000100092b2fcfdffffffffffff5d5d5d5d5d5dffff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

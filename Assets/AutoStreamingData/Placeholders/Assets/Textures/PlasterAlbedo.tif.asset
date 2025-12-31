@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlasterAlbedo.tif
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: 6f00b6d90100fcf993341a6e98beb1fb6f00d0e50100a030c494bcdedfded7f36f00d0e90100888607909afa4bfe869f6f00b4e30100484da939b7f7feeb0ea46f00bedf0100eccbbdfdb7fb36dd263b6f00b2d7010048c9ff094001506bdabb6f00c8e90100009096f27fe4aed4dddf6f00d0e301008482dfa46fe5a6bfec4f6f00d6e1010058a459d6ade92d597b016f00c8e70100a462c00a5813cfff95bb6f00c8dd01006ca7edb0c7b4d3defe976f00d8dd0100ec893dd15af6f6ded9136f00cadf0100946d90ff2aa5ee942acc6f00d0db0100a484c444b8abe77f6d0e6f00cae50100a4a014501df0eff8bdf56f00cedf0100a426d1b01ada4fd30ff06f00d0db0100882653bbbe5ffff6dd6b6f00d0dd0100fc9fbd2da55b2b00d93b6f00d0e30100245f3ab9bedf7ffb6dbf6f00cedd01002094fe2475bf75fb4da56f00ccdf0100803094d2880fa929352d6f00cceb0100c8810db6db5a4bf12d2c6f00cee90100ccfffffd7fffcb6e0b4d6f00dadf0100481929d35aa48c94690d6f00cee9010074edc40b4a000a4049416f00c8d7010048593d7df75f6d4229a56f00c6d701004cc92db9276fb96ceb0f6f00ccef010000a4c2b37fa68eb492076f00c4e901008c86dff67b7fe7fffc9f6f00dadf0100ec89bdbdb75b4b6b692d6f00d6ef01004c87e9301da6c374f0366f00d8e5010058400b68012da0057c406f00d6e701000079200fe4813c9007a56f00b2cf0100804250080a4121282c9c6f00b6d10100880ff1213ec487f8b00e6f00d0db0100b486d6d01a5a436b90b26f00b8e101006c5729ad25bfcb5c90a66f00c4e7010094db72bf7df5c9ff05f26f00b6db0100485da92b25f724804ffd6f00ccdf0100a4ce3d9ffe0b71ffeebd6f00cae9010018a4d7d6df5a42e929a76f00d2e301006ccfffff1f50db6f4b4c6f00c8ed01008cdff13b7e5b6f4a09296f00bced0100006ec00db8fbeb74914c6f00c0e50100ccb6d936dbf6d1bede9b6f00c6df010018cfdffcbdf9aebeef1a6f00c0dd0100484929bbb7a5ecde4ec16f00c6e90100106fe24dbc8937f136296f00c8dd0100fc8ffff13ffec7ff90926f00d2dd0100b4f6d6dedab77bea0111fcfdffffffffffffebebebebebebfffffcfdffffffffffffebebebebebebffff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

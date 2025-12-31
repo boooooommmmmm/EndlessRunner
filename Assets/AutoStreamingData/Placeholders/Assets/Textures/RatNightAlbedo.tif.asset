@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RatNightAlbedo.tif
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: 62693e919ab775cffbdb9f9dd280054052044d108b5d4156f815fee75c340000e2c818634117c7bbffe70f35bc589696f300e70d3b426665dfca25a9c9746325b20453bd6af4317cabe797ad0976ae9b048990a1ce64188a49f5ff098220f8ff02714a03b37666634d56ca9ca600fff6ee0349d252de8c2c01a2a08656944bfd410333686226d92dc0df31363240a203e290204c0f112fd90c8ff8a50a2674d2ef05eb53051678b8df9d03df82b59ef75f008f7d43f22cff97c4000000000042026988214eb3856cae09aa2a0f0fddd96f2045438dc93d44d578084da3230c84f300bbc353602d6ff08ff8477c222b0a72e84f352908d97b252304100498c9d96f00152f3dfa6ca77df49d62db0f986351c909f5f158a6754ce31f727ff840bf026988214633867cb02ab912108bffd2f30019e121c2a9ff9f7f73b61970052862048d7458128a88a1a8f28ff1aff9af52045fd112cea0f459b4c720611ba1ad610255446c322f45b203e6806033212f1f82a9a025719548c428c6184a11e3ffc2043b21f802864826a2652af96f92ffd2081e9531398d4a652ad85f7c73afdff104a3325d0c24a22b222388000025005204399ac98960e6dd19a35ca00aa64bf3008f4ca9a46ddb96ff466e882225db7380851009e3b048b4ef00b0ce499a2402e9cf011a9a22a326ca8b7f9f8338601383cd2a866ef848b4de33109df7228473803194425e9c4880b5788bb5f80a6b6df028639c4197eddb5465821a638c816181d7947c9e96e0fafb01007cdff77d6f4029eea390f4aeded5bb7a57ef6a0dd2680243071622624d3a6185f3b5dfc1a304fd7085262416d1a6daa70063af3d6204fb21e802fdcd00da667f55575757426902a35cd34f38dd837f0ccd620ce6d2281ba30624569213377781728309ef62043d66f49400a0000077a7a907cc0542b131ec2e730fabea1427f4421646e9c204af60f50c73ea3dafde11ad035280048990c9b2286e49e20ca6f07d1f0e01c2042f36d11412860b0f907980179b985d8890816046c6b7542f8e00ffbda97f626906d1baffc7687b2dd7522df742687e001d42d6a453bdbfeffee7fd7dcf80510599cf686e00a02b009d892c37f66f02a986495e5840df4ae002e24f00f03ffcfdffffffffffff6a6a55556e6effff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

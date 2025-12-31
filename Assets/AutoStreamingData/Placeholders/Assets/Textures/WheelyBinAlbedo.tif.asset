@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WheelyBinAlbedo.tif
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: 7f00367541ffbfffefb5f3b68154ba6d6f001e610100a4a4940400000000d89373011e79c11f927f486e01d01a806ddb0c012e75a94b0279412841f640df202e6f002e4d0100e85b00000000000000006f0030730100ecdd94901252424a48096f0066790100c06db80db7e136dc86db6f0028310100a4c014980253600a4c8113032a7901000000f00e0300dc6f01000c0174d7710068002c0618000d00650014f168209aaea34b097458a6ad906f046f0086a10100a4c0149c8253700a4c816f0064790100c0edb81db7e376dc8edb6f0028330100a4c014980253600a4c8122032a7b0100001f0000df0800370400220374d9010000ef00005f00003f0800730160d701fcfff0ff83fb0fe63fe8ff6f00869f0100a4c014980253600a4c810c01586e01440244c3b2b7f7a49494921f025c3001000000000000d18d79eefb7f0070b081fd43fe61af8e6d374e96244d02faa801006d659790049fa023feef5f88100057b99baacfa4964cc08965eff1024295c1fd0cf7339cff77bf7bb78b0c015e74514aee6deb2d01a2009200911f025c6a01000000f0ff5aa900000000e38898808727cd9bfffb5f8254d00eba0c01307551bb48ed293d65013e001c0008091e8097cb5f00d65f56c540944a247f003e8d0100e0ffd7766a3bb61ddb8efcfdffffffffffffbabababababafffffcfdffffffffffffbabababababaffff6f00749b0100c80019200364800c90011303749b0100000000003fff03c0cf7f7f004893c1ffe67ff3bff9dffc6f00286f004c8d01004849292925a5a494040073011e7701c9fd24f793fa0fa09be4a451032ccd015057005e6d0036ca80480214b12460738bca73537cfd3375ad810508a964e0176576005c81ebaffeeaaffe7301f0ce81255422492e8df424d29348080911205af6a63ff66b2aa0f22aafd26e1069809019ae2d73f7dd7703583dc008a90fa0def01ff6699ff6290002abb27301046fc1ffffffffffffbfcdfb36a87301c4a04114c09fd3bd76bac55d6aa75f080220fbdc8a24f1bffbfe7f4d0d006289b6e0f5f74916d0aaaddaaaaf4a436f00406b01004849292925a5a494044052c9bc0032dbd11600efe3fbc81fbed70c01307bf57ffc5feaeb7c6daf7c9732fcfdffffffffffffaaaaaaaaaaaaffff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

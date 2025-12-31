@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DogAlbedo.tif
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: 62b1f34c7af303200a9771f1155222277d68a621cda040d9a303f8fc8d790d8d5d023ddf9c20223988929659ddd948445d021fffbe7a013a4b695b6fc71966376f00873addcd4deb7e824a00100000001f82efdbca7ad148b4af378c5204202662690b63964a2b00b9fffdeffff8077f5d02791612f0eee5f7bae68ff10bfa022e02cf5dc9bd50f7d593991e468a80882e02bd033b542b5d3e699f3a26619c06710267dfe82b75a0b9ad6b777c2fb9f85d50095233a9fc188e520d3250bcab49e2a80ff0d8b8d8110ecca9a7bd159e034103b9e5533f15a94dd1dad4fe3a8c02e1c20281e1a524b268e2ebadf023cd30f300ffd65f7533dd977debbf640b9d10c1025baf2ddda874ceb2d6e7684d90fc6f209d19c9c6fdcf940a8052524a4a49710267dddc3c3c3d804f608431517011f300753547eb10f907ff053b036c4978720139412c488fdc803fa41ec83ff2fdc1021703cd80f7004ee2bc64b4ccd9fd5f00676bd53b5d0003684e9fedda8e6ef104676fff069be72489ad5d8994002073c1feefd2ff925f403594594b4404004289032c1ec5b3eb4e9d6c4f546cc9284103dd675d75357bd5231dbdba651520e250842c45e4ea1e3528b7fd6b273ffe5e88c72196deea3e1fb84becaddeb24ff104eba2c615ad5ded9d4e94df5b9bf7f340ffbf4ffdfffff3eff9bffc7fff17218333411ed8c3481428898192082989426988c1db97151b1010108ee1106d8b6d70028b1d1bfbdf1f170888841042f0528903831f1ffdaa84081a8206a0593f5dd0530cae45de523f4f291de5a3c6727269023580b314f4bf07af82d5fb3f1b6f00e79b9d49ddfbcb321a748397ad2d5f008b6be5b814849af8c92e2d00050061713c2d139d936eac9775337816df2372e9fc32440d0dd082bc7d87dfe2158af300bbd9a2a5d8b26ae727b9017001a86f008ff0829f70592ecb65a3565c8a636f00bf881294196a436da8e5ec9c9e36524956e3ffd1af338b254a89f2fef26372891835a04621d85fbcd6bb9414bf126f00c75eac4efdcfd00e80dfe3de044071e96363c61bb742a4866ea3e71bdd2e040982e1e71923fc9d636d018220087e51037d9d7ad8ac5d3337d9ed75d7e83702c987e1b559d1ec6a1aedc15dfff33ffcfdffffffffffffbebeafafa6a6ffff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

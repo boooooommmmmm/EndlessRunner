@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PartyHatBowtieAlbedo.tif
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 832
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 832
+  _typelessdata: 6101bbdd2712279400000000040000006e2886c14f333f8e71b47afaf4f2c20262047b80a981eef68ed00008006080ee6e4862b588d3c0d291a3fadda950090051058b8145acf012f612f63af612f6026f20db271081fc8ffff13ffec7ff90b26301878447eca02de00fa201640064005df075b0a2d7235d75e260c48400c08252e9d761e2e06a341a2f482439eba4786f00b780335c0054b44fb74924c004286fc0c22524f215b8925fe24b7c992ff26f209b201081ec893db127f6c49ed813f2681870e2502a7a9556c1312439120718015b70e4a7fa837ea01bb88ed9f882630197a0033da4ec94fae22db20ed9684d02f307374c9054138e881146b391622d0243c70f280e280050cf36da68a38d1f0243b91124102400e1d9fffff7df7f4103f5279f64a90630ee35407c94445b528989a1a2d1270a0555006dc03bbafe6ec8de8107315f970120a8b4ea08073451e917e39ba0029519801b0d28508165710257230486209b49a1c17423a76966c102b95a6061b048248444b828c0d9926301878427ec01000a002c002603d101c2045fc2850e00320120fb2212fb1712e28818a314a4a806a2a7bff002298042f3c0741110284112680014214f4c6e3a6fc0ae09084a15bf324bee50526bf93d6f20230d3de849c9ffdd9a5a436b4ac96f20db232001fdcffff93fffe7ff44a16fc0be2726964949292925a5a49444926fc0c42524bcfdedbffdb7fff6df867e63c13a0b0a925d26ed127d9a6ee82a016fc0480302d0a5a494949252524a2a726fc0300504fcedadbdb5b7f6d6de020018015b60a377730c0af3c15ad0042c0018016360c2815e7ad4608ff95c0202506f209b2b300101148012524272484c0508016b813d254e49f1182d4992a46a2673012f281c0090047c93f6a67c2fa5dd5f001f15280005402daee29aa4ffffff617135a73d32aa5d30aa23181e83c06414693e6c8660b51094755d6f392b65e30801df17008000aaaaaaaaaafa800554180163e1a007aa53ea9e5775e539a4163d02cf22888844444044b64aad6ab1aa7169086345744816a283e41861840e9c6fc05e0706aca5c014980253600a0cc14289caa13d36521d0a06000ee04a079461a9062b129a1c1dab661a0282200882fcfdffffffffffffd4d464644f4fffff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

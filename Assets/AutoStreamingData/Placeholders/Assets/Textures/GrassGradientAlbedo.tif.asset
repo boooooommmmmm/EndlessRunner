@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GrassGradientAlbedo.tif
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 8
+  m_Height: 32
+  m_CompleteImageSize: 320
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 6
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 320
+  _typelessdata: 6f00497d1d08019454d25afff7de94926f2069715580008084509afecfde95926f203f965804ccffd69d4a0369200da56fc04e881eb649e9bdf3bf5a436b685d6f206979558848c93db9ff5b6b2a01486f204975558448c9bdfd7f5b534a00006f203f5d348148c9bdfd7f5b4b4a01406f206f39358148c9bdfd7f5b4b4a02006f20371174e549c9bdfd7f5b4b4a02006f2037016ae548c939fd7f5b4b4a02006fc0f83029f4d9493b6927eda49d04286fc0f83029f84949292925a5a49404006f204569558cb4b61494825adbf7959a6f0055ca3c8849c9bdfd7f5b4b4a02006f2037053a054849292925f7766f41003d022155bdb8462422de4f24000040446fc0f02827ca4949292925a5a49404005d0055e28a1a1d26000000727ffd05006f006b164d0c4949292925a5a4940400fcfdffffffffffff4c4c65651010ffff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

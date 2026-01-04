@@ -84,7 +84,6 @@ PlayerSettings:
   androidAutoRotationBehavior: 1
   androidUrasMode: 0
   disableBluetoothAudioUpdate: 0
-  enableURASMultiView: 0
   androidEnableSensors: 0
   androidPredictiveBackSupport: 0
   defaultIsNativeResolution: 1
@@ -161,8 +160,6 @@ PlayerSettings:
   openHarmonyDefaultWindowHeight: 1080
   openHarmonyMinimumWindowWidth: 400
   openHarmonyMinimumWindowHeight: 300
-  openHarmonyMaximumWindowRatio: 10
-  openHarmonyMinimumWindowRatio: 0.1
   stadiaPresentMode: 0
   stadiaTargetFramerate: 0
   vulkanNumSwapchainBuffers: 3
@@ -969,14 +966,6 @@ PlayerSettings:
   mobileMTRendering:
     iPhone: 1
     tvOS: 1
-  m_VirtualGeometryRuntimeMap:
-    Android: 1
-    Standalone: 1
-    iPhone: 1
-  m_VirtualGeometryDataEncodingMap:
-    Android: 1
-    Standalone: 2
-    iPhone: 1
   m_BuildTargetGroupLightmapEncodingQuality:
   - m_BuildTarget: Standalone
     m_EncodingQuality: 1
@@ -1431,7 +1420,7 @@ PlayerSettings:
     -s ERROR_ON_UNDEFINED_SYMBOLS=0 -s TOTAL_MEMORY=256MB -s EXPORTED_RUNTIME_METHODS=''["ccall","cwrap","stackTrace","addRunDependency","removeRunDependency","FS_createPath","FS_createDataFile","stackTrace","writeStackCookie","checkStackCookie","lengthBytesUTF8","stringToUTF8"]''
     --profiling-funcs '
   weixinMiniGameModulesDirectory: 
-  weixinMiniGameTemplate: Builtin:Default
+  weixinMiniGameTemplate: APPLICATION:Default
   weixinMiniGameAnalyzeBuildSize: 0
   weixinMiniGameUseEmbeddedResources: 0
   weixinMiniGameCompressionFormat: 2
@@ -1452,10 +1441,8 @@ PlayerSettings:
   weixinMiniGameInjectStrippedMethodLogger: 0
   weixinMiniGameEnableDotNetWasmExceptionHandling: 1
   weixinMiniGamePreserveEventDelegate: 0
-  activeSubplatform: 2
+  activeSubplatform: 1
   serializedFileTypeTreeMemoryOptimization: 0
-  activeHtmlChannel: -1
-  stripBuiltinResources: 0
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
   cloudProjectId: 
@@ -1471,5 +1458,6 @@ PlayerSettings:
   androidEGLPriority: 0
   platformRequiresReadableAssets: 0
   virtualTexturingSupportEnabled: 0
+  packClustersForPlayer: 0
   insecureHttpOption: 2
   useStringInternPool: 0
